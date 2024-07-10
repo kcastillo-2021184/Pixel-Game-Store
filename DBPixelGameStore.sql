@@ -20,4 +20,4 @@ create table Categoria (
     primary key (codigoCategoria)
 );
 
--- Aña omar es hueco
+-- Omar hueco version papu gang
