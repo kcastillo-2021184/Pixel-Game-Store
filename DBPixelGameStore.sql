@@ -12,6 +12,8 @@ create database DBPixelGameStore;
 
 use DBPixelGameStore;
 
+-- Comentario de prueba
+
 create table Categoria (
     codigoCategoria int auto_increment not null,
     nombreCategoria varchar(30) not null,
